@@ -23,7 +23,6 @@ Server runs on: ws://localhost:8080
 4. Run the Client (HTML)
 -------------------------
 Open client/client.html using Live Server.
-URL: http://127.0.0.1:5500/client/client.html
 
 -------------------------
 5. Test Collaboration
