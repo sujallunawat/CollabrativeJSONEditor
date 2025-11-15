@@ -1,6 +1,6 @@
-# Realtime Collaborative JSON/Text Editor (Yjs + Node.js WebSocket)
+# Realtime Collaborative JSON Editor (Yjs + Node.js WebSocket)
 
-This project is a realtime collaborative JSON/text editor built using **Yjs (CRDT framework)** and a **Node.js WebSocket server**. Multiple clients can join a room, edit shared data, and automatically stay in sync.
+This project is a realtime collaborative JSON editor built using **Yjs (CRDT framework)** and a **Node.js WebSocket server**. Multiple clients can join a room, edit shared data, and automatically stay in sync.
 
 ## 📌 1. Requirements
 - Node.js 16+
